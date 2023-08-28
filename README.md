@@ -44,8 +44,8 @@ Once the model is done training, we validate and use the model to predict values
 
 ## PROGRAM
 ```
-Developed by: Chevula Naga Durga
-Reg no:212221230014
+Developed by: Chintha Nagajyothi
+Reg no:212221230015
 ```
 ```
 import pandas as pd
